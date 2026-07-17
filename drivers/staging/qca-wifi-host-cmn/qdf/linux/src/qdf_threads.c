@@ -1,3 +1,4 @@
+#include <linux/stacktrace.h>
 /*
  * Copyright (c) 2014-2019 The Linux Foundation. All rights reserved.
  *
